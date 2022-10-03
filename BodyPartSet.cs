@@ -3,6 +3,8 @@ using UnityEngine;
 public class BodyPartSet : MonoBehaviour,GetBodyPart
 {
     
+
+
 public GameObject righthand;
 public GameObject lefthand;
 public GameObject rightfoot;
